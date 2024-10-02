@@ -2,5 +2,6 @@
 
 Части:
 1. [Въведение](./introduction.md)
+2. [Списъци и for цикъл](./lists-and-for-loop.md)
 2. [Задачи давани през часовете](./class-excercises)
 3. [Домашни работи](./homework)
