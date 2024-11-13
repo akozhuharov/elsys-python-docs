@@ -4,5 +4,6 @@
 1. [Въведение](./introduction.md)
 2. [Списъци и for цикъл](./lists-and-for-loop.md)
 3. [While цикъл и Dictionary](./while-loop-and-dictionary.md)
-4. [Задачи давани през часовете](./class-excercises)
-5. [Домашни работи](./homework)
+4. [Работа с файлове](./file-handling.md)
+5. [Задачи давани през часовете](./class-excercises)
+6. [Домашни работи](./homework)
